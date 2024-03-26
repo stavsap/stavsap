@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJ1a3d0cjB0amhnNGtiNzdrMGwxaWo3ZW9vOHprYzZ6NzB4c2JnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+</div>
+
+
+
 <!--
 **stavsap/stavsap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
